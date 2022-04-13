@@ -1,6 +1,6 @@
 👋 Hi, I’m @joeyb908, aka Joey. I'm a 2x AWS certified teacher looking to change careers. Currently hold these certs:
 
-     - AWS Solutions Architect Assoicate
+     - AWS Solutions Architect Associate
      - AWS Cloud Practitioner
      - FTCE Mathematics K-12 (Math teaching certificate for Florida teachers)
 
