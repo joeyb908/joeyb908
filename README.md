@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @joeyb908, aka Joey
-- 👀 I’m interested in AWS, Python, Database (SQS right now), and Git
-- 🌱 I’m currently learning all the skills I need to become a Cloud Engineer. I've got a long way to go but I'm making good progress each day.
-- 📫 You can reach me at joey@ohannesian.io
+👋 Hi, I’m @joeyb908, aka Joey. I'm a 2x AWS certified teacher looking to change careers. Currently hold these certs:
+     - AWS Solutions Architect Assoicate
+     - AWS Cloud Practitioner
+     - FTCE Mathematics K-12 (Math teaching certificate for Florida teachers)
+
+👀 I'm interested in a whole range of things, from AWS and Python, to databases (SQS right now) and Git. I'm not really sure what 'position' title that would be a fit for, so I'm currently looking towards cloud engineer and DevOps roles. 
+
+🌱 I've got a long way to go, but am making progress every day! Currently focused on the Developer Associate cert from AWS and learning Python.
+
+📫 You can reach me at joey@ohannesian.io
 
 <!---
 joeyb908/joeyb908 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
