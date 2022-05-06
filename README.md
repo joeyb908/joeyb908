@@ -4,7 +4,9 @@
      - AWS Cloud Practitioner
      - FTCE Mathematics K-12 (Math teaching certificate for Florida teachers)
 
-👀 I'm interested in a whole range of things, from AWS and Python, to databases (SQS right now) and Git. I'm not really sure what 'position' title that would be a fit for, so I'm currently looking towards cloud engineer and DevOps roles. 
+👀 Here to check out what I've done? Check out my 100-days-of-code repository. I've accomplished quite a bit within the past month!
+
+I'm interested in a whole range of things, from AWS and Python, to databases (SQL right now) and Git. I'm not really sure what 'position' title that would be a fit for, so I'm currently looking towards cloud engineer and DevOps roles. 
 
 🌱 I've got a long way to go, but am making progress every day! Currently focused on the Developer Associate cert from AWS and learning Python.
 
