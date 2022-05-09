@@ -1,4 +1,4 @@
-👋 Hi, I’m @joeyb908, aka Joey. I'm a 2x AWS certified teacher looking to change careers. Currently hold these certs:
+👋 Hi, I’m @joeyb908, aka Joey. I'm a 3x AWS certified teacher looking to change careers. Currently hold these certs:
 
      - AWS Developer Associate
      - AWS Solutions Architect Associate
