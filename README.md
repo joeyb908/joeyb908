@@ -9,7 +9,7 @@
 
 I'm interested in a whole range of things, from AWS and Python, to databases (SQL right now) and Git. I'm not really sure what 'position' title that would be a fit for, so I'm currently looking towards cloud engineer and DevOps roles. 
 
-🌱 I've got a long way to go, but am making progress every day! Currently focused on the Developer Associate cert from AWS and learning Python.
+🌱 I've got a long way to go, but am making progress every day! Currently focused developing my Python skills.
 
 📫 You can reach me at joey@ohannesian.io
 
